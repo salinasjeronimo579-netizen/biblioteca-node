@@ -1,0 +1,19 @@
+{
+  "name": "servidor-nodejs",
+  "version": "1.0.0",
+  "description": "creacion y definicion de un servidor conectado a una base de datos por medio de un ORM",
+  "keywords": [
+    "nodejs",
+    "base",
+    "de",
+    "datos",
+    "servidor"
+  ],
+  "license": "ISC",
+  "author": "samuel bustamante monroy",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
