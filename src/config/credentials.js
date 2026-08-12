@@ -1,3 +1,7 @@
+import { Sequelize } from "sequelize";
+
+export const conn = new Sequelize(DB_NAME, DB_USER, DB_PASSWORD, OBJ_CONN)
+
 const DB_NAME = "Biblioteca"
 const DB_USER = "root"
 const DB_PASSWORD = ""
